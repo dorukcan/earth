@@ -1,0 +1,6 @@
+tqdm
+psycopg2
+python-slugify
+attrs
+lxml
+cssselect
